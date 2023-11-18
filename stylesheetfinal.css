@@ -33,6 +33,7 @@ body {
     max-width: 1100px;
     margin: 0 auto;
     padding: 10rem 3rem;
+    padding-left: 300px;
     margin top: 8rem;
     text-align: center;
 }
@@ -62,7 +63,7 @@ body {
   }
   
   .main {
-    margin-left: 200px; /* Same as the width of the sidenav */
+    margin-left: 200px;
   }
   
   @media screen and (max-height: 450px) {
@@ -76,7 +77,7 @@ header .container{
 }
 
 .showcase-image {
-    margin-left: 5rem;
+    margin-left: 2rem;
 }
 
 
